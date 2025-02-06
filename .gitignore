@@ -1,0 +1,28 @@
+.cargo
+*.lock
+
+# Ignore build directory in all locations
+**/build/
+
+# Ignore install directory in all locations
+**/install/
+
+# Ignore log directory in all locations
+**/log/
+*.log
+
+# Ignore all .DS_Store files
+*.DS_Store
+
+# Ignore all .log files
+*.log
+
+# Ignore target directory in all locations
+**/target/
+
+
+## ************************ ##
+## To apply
+# git rm -r --cached .
+# git add .
+# git commit -m "Apply .gitignore"
