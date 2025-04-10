@@ -124,6 +124,7 @@ alias rli="ros2 topic info"
 alias ril="ros2 interface list"
 alias rill="ros2 interface list | grep"
 alias rils="ros2 interface show"
+alias rpe="ros2 pkg executables"
 
 alias matlab="/usr/local/MATLAB/R2024b/bin/matlab"
 alias nv="nvim"

@@ -6,7 +6,7 @@ Tags:
 [Download newest Neovim on Ubuntu](https://github.com/neovim/neovim/blob/master/BUILD.md)
 
 ```shell
-1. `git clone https://github.com/neovim/neovim`
+1. git clone https://github.com/neovim/neovim
 2. cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo
 3. git checkout stable
 4. sudo make install 
