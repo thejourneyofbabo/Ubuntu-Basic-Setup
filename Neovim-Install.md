@@ -5,14 +5,14 @@ Tags:
 
 [Download newest Neovim on Ubuntu](https://github.com/neovim/neovim/blob/master/BUILD.md)
 
-1. `git clone https://github.com/neovim/neovim'
-2. `cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo'
-3. `git checkout stable'
-4. `sudo make install'
+1. `git clone https://github.com/neovim/Neovim`
+2. `cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo`
+3. `git checkout stable`
+4. `sudo make install`
 5. recommended theme: Nvchad: `git clone https://github.com/NvChad/starter ~/.config/nvim && nvim`  
 
 ---
-** Extra **  
+### Extra
 
 +) NvChad 기반으로 기능 추가한 Jisang Theme.
 `https://github.com/thejourneyofbabo/clean-nvim.git`  
