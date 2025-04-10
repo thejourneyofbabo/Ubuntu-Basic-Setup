@@ -9,7 +9,7 @@ Tags:
 2. `cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo`
 3. `git checkout stable`
 4. `sudo make install`
-5. recommended theme: Nvchad: `git clone https://github.com/NvChad/starter ~/.config/nvim && nvim`  
+5. recommended theme: [Nvchad](https://nvchad.com/docs/quickstart/install): `git clone https://github.com/NvChad/starter ~/.config/nvim && nvim`  
 
 ---
 ### Extra
