@@ -52,7 +52,7 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 
 ### 1. Theme Configuration
 - Open the configuration file: `vi ~/.zshrc`
-- Change `ZSH_THEME="robbyrussell"` to `ZSH_THEME="agnoster"`
+- Change `ZSH_THEME="robbyrussell"` to `ZSH_THEME="af-magic"`
 
 ### 2. Install Powerline Fonts
 Install the required fonts for the af-magic theme:
