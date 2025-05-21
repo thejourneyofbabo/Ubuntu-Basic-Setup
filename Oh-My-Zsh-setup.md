@@ -55,7 +55,7 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 - Change `ZSH_THEME="robbyrussell"` to `ZSH_THEME="agnoster"`
 
 ### 2. Install Powerline Fonts
-Install the required fonts for the agnoster theme:
+Install the required fonts for the af-magic theme:
 
 ```bash
 sudo apt install fonts-powerline
